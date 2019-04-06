@@ -1,0 +1,15 @@
+1) Binärer Baum mit Zahlen
+	- implementiere einen Binären Baum für Zahlen
+	- Hinzufügen und entfernen soll funktionieren
+
+2) Suchen
+	- Hier soll ein zufälliger Baum gegeben sein (zufällig generieren)
+	- Dieser kann belieben Typ haben
+	- Das Ziel ist es ein zufälliges Objekt im Baum zu finden
+	- Dies soll auf 2 unterschiedliche Arten ausprogrammiert werden
+	- Tiefensuche:
+		-> es wird bis zum Ende des Baumes gesucht, bevor etwas anderes entdeckt wird
+	- Breitensuche:
+		-> der Baum wird Schicht für Schicht durchsucht
+	
+	? Wann ist Tiefensuche und wann Breitensuche schneller?

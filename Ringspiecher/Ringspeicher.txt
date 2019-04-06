@@ -1,0 +1,13 @@
+1) Der Speicher
+	- Der Ringspeicher soll wie im Unterricht besprochen ausprogrammiert werden
+	- Dabei sollen folgende Methoden vorhanden sein:
+		*) insertAt
+		*) removeAt
+		*) enqueue
+		*) dequeue
+	- weitere Methoden sind natürlich erwünscht
+	- Es soll möglich sein den Speicher in einer Foreach-loop durchzugehen
+	
+	# Teste den Speicher mit irgendwelchen Daten
+	
+	(Zusatz):	Der Speicher soll generisch sein
