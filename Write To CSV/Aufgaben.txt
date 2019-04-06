@@ -1,0 +1,22 @@
+In diesem Beispiel geht es darum mit Generics zu arbeiten.
+
+1) Baue eine generische Methode um 2 Listen/Arrays beliebiger Datentypen in eine CSV Datei zu schreiben
+	- Die beiden Listen/Arrays haben den gleichen Datentyp
+	- der Pfad für die CSV darf vordefiniert sein
+	- Es soll möglich sein unterschiedliche große Listen/Arrays zu verwenden
+		-> verwende den default-Wert falls keine vorhanden ist
+	
+	(Variation): die beiden Listen/Arrays dürfen jeweils UNTERSCHIEDLICHE Datentypen haben
+		- Baue hierfür auf die Methode von oben auf
+		? wie viel hat sich geändert?
+
+	# Teste die Methode mit unterschiedlichen Listen und Arrays. 
+	
+2) Zusammenfügen von unterschiedlichen Collections
+	- Es soll eine Methode geschrieben werden, die 2 Collections als Parameter hat 
+		und eine Liste mit allen Elementen der beiden Collections zurückgibt
+	- die Parameter können X-beliebige Collections sein (List,Queue,Stack,IEnumerable,...)
+	- Es soll NICHT das LINQ statement "Concat" verwendet werden
+	? wäre es möglich Collections von unterschiedlichen Typen zu verbinden?
+	
+	# Teste die Methode mit unterschiedlichen Daten und Collections

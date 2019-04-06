@@ -1,0 +1,4 @@
+Variation 1:
+	es soll die Korrelation von beiden Input Daten verwendet werden (weiterhin für {k|-100<k<100})
+	
+	(1) gibt es irgend eine spezielle Korrelation der beiden Datensätze?

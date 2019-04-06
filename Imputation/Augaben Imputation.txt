@@ -1,0 +1,12 @@
+
+1) Auffüllen der Leeren Felder
+	- gegeben ist eine Datei mit Wechselkursen zwischen Euro und Dollar
+	- es sollen fehlende Werte nach folgendem Schema aufgefüllt werden:
+		*) der Wechselkurs wird duch den Durchschnitt der letzen 
+			und nächsten korrekten Zeile definiert
+		*) bei fehlenden Werten am Anfang und Ende ist die nicht vorhandene Seite zu ignorieren
+	- das Ergebniss soll wieder in eine CSV Datei geschrieben werden
+	
+2) Benford wird stolz sein
+	- wir haben nun die korrigierten Wechselkurse
+	- Führe alle analysen von Benford aus um heraus zu finden ob die Zahlen realistisch sind	
